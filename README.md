@@ -19,5 +19,5 @@ Our project is similar to real world embedded system pen plotters, as they both 
 If we had more time and resources, we would have implemented various peripherals and ideas. The first one is something we mentioned in our project proposal, which was using a servo to move the pen up and down. This would have been very useful for letter logic, and leaving gaps between letters and words. Given 1-2 more weeks we would have definitely implemented this feature into the system. Moreover, we would have tested and debugged the issues with the turning consistency, maybe implementing other peripherals to make sure the turning was on point. Lastly, our code has a lot of room for optimization, as it might have been better to create an actual algorithm for writing, instead of hardcoding every letter with helper functions.
 
 
-![Circuit Diagram](https://github.gatech.edu/ygurude3/ECE-4180-Project/raw/main/circuitdiagram.jpg)
+![Circuit Diagram](https://github.com/ygurude/ECE-4180-Project/raw/main/circuitdiagram.jpg)
 
